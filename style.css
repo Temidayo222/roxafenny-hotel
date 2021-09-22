@@ -1,0 +1,532 @@
+@import url('https://fonts.googleapis.com/css2?family=Lakki+Reddy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background-color: #222;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar {
+    padding: 20px 5px;
+    letter-spacing: 3px;
+    margin-bottom: 0;
+    border-radius: 0;
+    z-index: 9999;
+    background-color: transparent !important;
+}
+
+.nav-item {
+    margin-right: 30px !important;
+}
+
+.navbar-brand {
+    margin-left: 120px;
+}
+
+#myBtnn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+#myBtnn:hover {
+    background-color: #555;
+}
+
+
+
+.pp {
+    margin-right: 30px !important;
+    border: none !important;
+    z-index: 9999;
+}
+
+.jje {
+    margin-top: -110px;
+}
+
+.jj {
+    width: 100%px;
+    height: 600px;
+}
+
+.banner {
+    padding: 0 !important;
+}
+
+.rr {
+    margin-top: -200px !important;
+    margin-left: -550px !important;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Lakki Reddy;
+}
+
+.rrs {
+    margin-top: -0px !important;
+    margin-left: -600px !important;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Zen Loop;
+}
+
+.nn {
+    background-image: url(img/poool.jpg);
+    color: #fff;
+    
+}
+
+.lll {
+    padding: 20px 0;
+}
+
+input, select {
+    padding: 20px;
+    border: none;
+    margin: 15px 0 20px 0;
+}
+
+.az {
+    background-color: #fff;
+}
+
+.km {
+    width: 100%px;
+    height: 300px;
+}
+
+.ee {
+    background-color: #222;
+    color: #fff;
+    cursor: pointer;
+}
+
+.ee a {
+    text-decoration: none;
+    margin: 15px 0 20px 0;
+    color: #fff;
+}
+.ee a h4 {
+    color: #fff;
+    margin: 15px 0 20px 0;
+}
+
+.ee p {
+    color: rgb(175, 175, 51);
+    margin: 15px 0 20px 0;
+}
+
+.kv {
+    color: #fff;
+    margin-bottom: 110px;
+}
+
+.kv h4 {
+    margin-top: 50px;
+}
+
+.iio {
+    background-color: rgb(105, 101, 101);
+    height: 150px;
+}
+
+.qqa {
+    font-size: 80px;
+    color: rgb(223, 223, 116);
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.iio:hover {
+    background-color: rgb(196, 196, 130);
+    cursor: pointer;
+    color: #fff;
+    transition: 1s;
+}
+
+.iioo {
+    background-color: #222;
+    height: 150px;
+}
+
+.iioo:hover {
+    background-color: rgb(196, 196, 130);
+    cursor: pointer;
+    color: #fff;
+    transition: 1s;
+}
+
+.bv {
+    background-color: rgb(235, 232, 232);
+}
+
+.bv h4 {
+    padding-top: 30px;
+}
+
+.bv p {
+    padding: 20px 0;
+    color: rgb(48, 48, 5);
+    font-size: 20px;
+}
+
+.ws {
+    width: 100%;
+    height: 615px;
+}
+
+.wss {
+    width: 100%;
+    height: 350px;
+}
+
+.kj {
+    margin-top: -200px;
+}
+
+.iiu h2, p {
+    color: #fff;
+}
+
+.price-ss {
+    background-color: #fff;
+    color: #000;
+}
+
+.price-icon {
+    color: rgb(209, 209, 97);
+    font-size: 33px;
+    margin-top: 20px;
+}
+
+.price-ss p {
+    color: #000;
+    font-size: 20px;
+    padding: 10px 0;
+}
+
+.price-ss:hover {
+    background-color: rgb(196, 196, 130);
+    cursor: pointer;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.price-ss h3 {
+    font-family: Lakki Reddy;
+    font-size: 30px;
+    padding-bottom: 12px;
+}
+
+
+.price-ss a {
+    margin-top: -50px;
+}
+
+.btn {
+    border: none;
+    border-radius: 3px;
+    color: #000; 
+    margin-top: -30px;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.yh {
+    padding-right: 0;
+}
+
+.yhh {
+    padding-left: 0;
+}
+
+.rrzz {
+    font-family: Lakki Reddy;
+    font-size: 50px;
+    margin-left: -500px !important;
+    font-weight: bolder;
+    color: rgb(218, 186, 186);
+}
+
+.kmz {
+    width: 100%;
+    height: 350px;
+    z-index: 999;
+}
+
+.uui {
+    background-image: url(img/bandw.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.wxx h4 {
+    font-size: 50px;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+
+.wxx p {
+    font-size: 30px;
+    color: rgb(240, 240, 133);
+}
+
+.bv {
+    margin: 20px 0;
+}
+
+.qw h5 {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: left !important;
+}
+
+.qw span {
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: left !important;
+    color: rgb(240, 240, 133);
+}
+
+.qw p {
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: left !important;
+    color: rgb(66, 64, 64);
+}
+
+.qw img {
+    text-align: right;
+    justify-content: right !important;
+    margin-left: 250px;
+    margin-top: -95px;
+}
+
+.bannn {
+    padding:0 20px;
+    background-color: #fff;
+    box-shadow: 0 8px 6px -6px #fff;
+}
+
+.bbv {
+    padding-top: 20px;
+}
+
+.btn2 {
+    border: none;
+    border-radius: 3px;
+    color: rgb(144, 206, 73); 
+    margin-top: -30px;
+    font-size: 20px;
+    margin: 20px 0;
+    cursor: pointer;
+    background-color: transparent;
+    padding: 10px 0;
+}
+
+.btn2:hover {
+    background-color: turquoise;
+    transition: 0.5s;
+}
+
+.zx h4{
+    padding: 20px 0;
+    color: #fff;
+}
+
+.zx p {
+    padding: 10x 0;
+}
+
+.zxx h4 {
+    padding: 20px 0;
+    color: #fff;
+}
+
+.zxx ul li a {
+    color: #fff !important;
+}
+
+.mv a {
+    font-size: 50px;
+    color: #fff;
+    border-radius: 100px;
+    padding-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media only screen and (max-width: 667px) {
+        .navbar-brand {
+            margin-left: 20px;
+        }
+
+        .navbar {
+            background-color: #222 !important;
+            position: fixed !important;  
+            width: 100%;  
+        }
+
+        .nav-item {
+            margin-left: 20px;
+        }
+
+        .rr {
+            margin-top: 0px !important;
+            margin-left: 0px !important;
+        }
+        
+        .rrs {
+            margin-top: 0px !important;
+            margin-left: 0px !important;
+
+        }
+
+        .rrzz {
+            margin-left: 0px !important;
+            font-weight: bolder;
+        }
+
+        .qw img {
+            justify-content: center !important;
+            margin-left: 0;
+            margin-top: 0;
+            padding-bottom: 20px;
+        }
+        .qw h5 {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center !important;
+            padding: 10px;
+        }
+        
+        .qw span {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center !important;
+            padding: 10px;
+        }
+        
+        .qw p {
+            font-size: 13px;
+            font-weight: bold;
+            text-align: center !important;
+        }
+        .mv a {
+            padding-left: 5px;
+            font-size: 20px;
+        }
+        
+        .wxx h4 {
+            font-size: 25px;
+            font-weight: bolder;
+            padding-top: 50px;
+        }
+        
+        .wxx p {
+            font-size: 15px;
+            color: rgb(240, 240, 133);
+        }
+
+        .bannn {
+            padding: 20px 0;
+            margin-bottom: 20px;
+        }
+
+        .qw {
+            margin-top: 20px;
+        }
+    } 
+
+    @media only screen and (max-width: 1024px) {
+        .navbar-brand {
+            margin-left: 0px;
+        }
+
+        .qw img {
+            justify-content: center !important;
+            margin-left: 0;
+            margin-top: 0;
+            padding-bottom: 20px;
+        }
+        .qw h5 {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center !important;
+            padding: 10px;
+        }
+        
+        .qw span {
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center !important;
+            padding: 10px;
+        }
+
+        .rr {
+            margin-top: 0px !important;
+            margin-left: 0px !important;
+        }
+        
+        .rrs {
+            margin-top: 0px !important;
+            margin-left: 0px !important;
+
+        }
+
+        .rrzz {
+            margin-left: 0px !important;
+            font-weight: bolder;
+        }
+    }
